@@ -1,5 +1,0 @@
-dia = int(input('Por quantos dias o carro foi alugado? '))
-km = float(input('Quantos km o carro percorreu? '))
-print(f'Valor por dias alugados: R${dia*60:.2f}')
-print(f'Valor por km percorrido: R${km*0.15:.2f}')
-print(f'Total a pagar: R${(dia*60)+(km*0.15):.2f}')
